@@ -764,19 +764,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\School\\.nuget\\packages\\": {}
+    "C:\\Users\\marci\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\School\\Desktop\\Demo Repos\\LearningEventStoreDB\\BasicWorkings\\BasicWorkings.csproj",
+      "projectUniqueName": "C:\\Users\\marci\\Desktop\\temp\\DemoProjects\\LearningEventStoreDB\\BasicWorkings\\BasicWorkings.csproj",
       "projectName": "BasicWorkings",
-      "projectPath": "C:\\Users\\School\\Desktop\\Demo Repos\\LearningEventStoreDB\\BasicWorkings\\BasicWorkings.csproj",
-      "packagesPath": "C:\\Users\\School\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\School\\Desktop\\Demo Repos\\LearningEventStoreDB\\BasicWorkings\\obj\\",
+      "projectPath": "C:\\Users\\marci\\Desktop\\temp\\DemoProjects\\LearningEventStoreDB\\BasicWorkings\\BasicWorkings.csproj",
+      "packagesPath": "C:\\Users\\marci\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marci\\Desktop\\temp\\DemoProjects\\LearningEventStoreDB\\BasicWorkings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\School\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marci\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -827,7 +827,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
