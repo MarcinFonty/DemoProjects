@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\School\\Desktop\\LearningEventStoreDB\\BasicWorkings\\BasicWorkings.csproj": {}
+    "C:\\Users\\School\\Desktop\\Demo Repos\\LearningEventStoreDB\\BasicWorkings\\BasicWorkings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\School\\Desktop\\LearningEventStoreDB\\BasicWorkings\\BasicWorkings.csproj": {
+    "C:\\Users\\School\\Desktop\\Demo Repos\\LearningEventStoreDB\\BasicWorkings\\BasicWorkings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\School\\Desktop\\LearningEventStoreDB\\BasicWorkings\\BasicWorkings.csproj",
+        "projectUniqueName": "C:\\Users\\School\\Desktop\\Demo Repos\\LearningEventStoreDB\\BasicWorkings\\BasicWorkings.csproj",
         "projectName": "BasicWorkings",
-        "projectPath": "C:\\Users\\School\\Desktop\\LearningEventStoreDB\\BasicWorkings\\BasicWorkings.csproj",
+        "projectPath": "C:\\Users\\School\\Desktop\\Demo Repos\\LearningEventStoreDB\\BasicWorkings\\BasicWorkings.csproj",
         "packagesPath": "C:\\Users\\School\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\School\\Desktop\\LearningEventStoreDB\\BasicWorkings\\obj\\",
+        "outputPath": "C:\\Users\\School\\Desktop\\Demo Repos\\LearningEventStoreDB\\BasicWorkings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\School\\AppData\\Roaming\\NuGet\\NuGet.Config",

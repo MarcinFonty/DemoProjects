@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "stlrCIuE3zzQqINpk8B64G++VI9FVJCk1Vb7SE12VlXxBw8KHmMI9BZExMlB3svVc/DkYMYXpjE5dp8pRvR3WQ==",
+  "dgSpecHash": "zOvFrVbXw4uxwo5LJxCwtXlGsjn9KBDRQy1uOYDmuihkCB6ySW2Kh4iZPnFLNeg71Gw8wZ7ap8rXbmg6lTc3Zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\School\\Desktop\\LearningEventStoreDB\\BasicConnection\\BasicConnection.csproj",
+  "projectFilePath": "C:\\Users\\School\\Desktop\\Demo Repos\\LearningEventStoreDB\\BasicConnection\\BasicConnection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\School\\.nuget\\packages\\eventstore.client.grpc\\23.0.0\\eventstore.client.grpc.23.0.0.nupkg.sha512",
     "C:\\Users\\School\\.nuget\\packages\\eventstore.client.grpc.streams\\23.0.0\\eventstore.client.grpc.streams.23.0.0.nupkg.sha512",

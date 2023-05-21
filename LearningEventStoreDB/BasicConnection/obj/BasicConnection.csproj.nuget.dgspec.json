@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\School\\Desktop\\LearningEventStoreDB\\BasicConnection\\BasicConnection.csproj": {}
+    "C:\\Users\\School\\Desktop\\Demo Repos\\LearningEventStoreDB\\BasicConnection\\BasicConnection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\School\\Desktop\\LearningEventStoreDB\\BasicConnection\\BasicConnection.csproj": {
+    "C:\\Users\\School\\Desktop\\Demo Repos\\LearningEventStoreDB\\BasicConnection\\BasicConnection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\School\\Desktop\\LearningEventStoreDB\\BasicConnection\\BasicConnection.csproj",
+        "projectUniqueName": "C:\\Users\\School\\Desktop\\Demo Repos\\LearningEventStoreDB\\BasicConnection\\BasicConnection.csproj",
         "projectName": "BasicConnection",
-        "projectPath": "C:\\Users\\School\\Desktop\\LearningEventStoreDB\\BasicConnection\\BasicConnection.csproj",
+        "projectPath": "C:\\Users\\School\\Desktop\\Demo Repos\\LearningEventStoreDB\\BasicConnection\\BasicConnection.csproj",
         "packagesPath": "C:\\Users\\School\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\School\\Desktop\\LearningEventStoreDB\\BasicConnection\\obj\\",
+        "outputPath": "C:\\Users\\School\\Desktop\\Demo Repos\\LearningEventStoreDB\\BasicConnection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\School\\AppData\\Roaming\\NuGet\\NuGet.Config",

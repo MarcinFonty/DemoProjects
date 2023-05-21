@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6oYJCwC3IpeAVDp32DFubllhKuthTWyAv1h8cqom+rugRICKTAovqA5Hj1iFVQQvcJVAfofWho7A75vsHooGcw==",
+  "dgSpecHash": "DnSgmtFZXqIhdjhMBGBcBZCbyMh1diM9gGuNAiCOSerjVipP8X9kT/7BrwBV5sTRN6R56GChE3/vZPHFDhgwRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\School\\Desktop\\LearningEventStoreDB\\BasicWorkings\\BasicWorkings.csproj",
+  "projectFilePath": "C:\\Users\\School\\Desktop\\Demo Repos\\LearningEventStoreDB\\BasicWorkings\\BasicWorkings.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\School\\.nuget\\packages\\eventstore.client.grpc\\23.0.0\\eventstore.client.grpc.23.0.0.nupkg.sha512",
     "C:\\Users\\School\\.nuget\\packages\\eventstore.client.grpc.streams\\23.0.0\\eventstore.client.grpc.streams.23.0.0.nupkg.sha512",
